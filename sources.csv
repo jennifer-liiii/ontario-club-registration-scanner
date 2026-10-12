@@ -1,0 +1,22 @@
+type,name,url,enabled,notes
+district,Durham Region Soccer Association,http://www.durhamregionsoccer.ca/,yes,
+district,ECOSA,https://ecosa.ca/wp/,yes,
+district,EMSA,http://www.emsadistrict.com/,yes,
+district,Essex County Soccer Association,http://www.essexcountysoccer.ca/,yes,
+district,GNSA,https://www.gnsa.ca/home,yes,
+district,Hamilton & District Soccer Association,http://www.hamiltonsoccer.net/,yes,
+district,HDSA,http://www.hdsasoccer.ca/,yes,
+district,Lambton Kent Soccer Association,http://www.lambtonkentsoccer.com/,yes,
+district,Niagara Soccer Association,http://niagarasoccerassociation.ca/,yes,
+district,Peel Halton Soccer Association,http://www.peelhaltonsoccer.com/,yes,
+district,SNO,http://www.snosoccer.com/,yes,
+district,SOSA,http://www.sosasoccer.ca/,yes,
+district,SWRSA,http://www.swrsa.ca/,yes,
+district,Toronto Soccer Association,https://tosoccer.net/,yes,
+district,York Region Soccer Association,http://www.yrsa.ca/,yes,
+district,Eastern Ontario District Soccer Association,,no,Add the district website URL to enable
+league,Eastern Ontario Soccer League (EOSL),https://eosl.ca/,yes,
+league,Ontario Soccer League (OSL),https://ontariosl.com/,yes,
+league,iModel Western Region,https://imodelwr.ca/,yes,
+league,ICM Central Region,https://imodelcentralregion.com/,no,Skipped in this run; clubs covered via seed file
+league,OWSL,https://www.owsl.ca/,no,League site not available at time of scan
